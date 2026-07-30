@@ -23,3 +23,20 @@ The owner of this repository assumes no liability or responsibility for misuse, 
 ## Updates
 
 ⭐ I’ll upload more JB prompts once I reach 5 GitHub followers :)
+
+
+# JB-Prompts-AI Custom License
+
+Copyright (c) 2026 [Your Name/Username]
+
+Permission is granted to fork this repository on GitHub and use the prompts for personal purposes.
+
+You may NOT:
+- copy this repository or its contents to another repository
+- re-upload, mirror, or redistribute these prompts elsewhere
+- sell these prompts or include them in paid products
+- claim these prompts as your own work
+
+Forks on GitHub are allowed as long as the original repository and attribution remain visible.
+
+For any other use, permission from the owner is required.
