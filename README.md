@@ -1,16 +1,25 @@
-# Jb-Prompts-Ai
-Jailbreak and roleplay prompts for Gemini and DeepSeek 
+# JB-Prompts-AI
 
-**These Prompts are in german**
+A collection of German jailbreak and roleplay prompts for AI models like Gemini and DeepSeek.
 
-How to use?
+## About
 
-in the Github App: Go to "code"
+This repository contains prompts designed for roleplay experiments and AI behavior testing.
 
-in the Github website: Just click on a modell to jailbreak on my repo.
+## How to use
 
+**GitHub App:**
+1. Open the repository.
+2. Go to **Code**.
+3. Select a prompt file.
 
-**"The owner of this repository assumes no liability or responsibility for any misuse, damage, illegal activities, or other fallout resulting from the use of these prompts. Users act entirely at their own risk. You know what you're doing – so don't come crying if it backfires ;) ."**
+**GitHub Website:**
+Simply open a prompt file and copy the content you want to test.
 
+## Disclaimer
 
-I’ll upload more JB prompts once I reach 5 GitHub followers :)
+The owner of this repository assumes no liability or responsibility for misuse, damage, illegal activities, or any other consequences resulting from the use of these prompts. Users are responsible for how they use this content.
+
+## Updates
+
+⭐ I’ll upload more JB prompts once I reach 5 GitHub followers :)
