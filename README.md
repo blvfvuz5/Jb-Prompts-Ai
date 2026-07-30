@@ -37,3 +37,5 @@ This repository uses a custom license.
 GitHub forks are allowed, but please don't copy my work, rename it, and pretend you created it. We both know what happened ;)
 
 See `LICENSE.md` for the full rules.
+
+still works :)
