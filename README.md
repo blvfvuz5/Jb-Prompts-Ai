@@ -6,6 +6,8 @@ A collection of German jailbreak and roleplay prompts for AI models like Gemini 
 
 This repository contains German prompts created for roleplay experiments and AI behavior testing.
 
+Use them responsibly. You know what you're doing... hopefully ;)
+
 ## How to use
 
 **GitHub App:**
@@ -20,7 +22,7 @@ Simply open a prompt file and copy the content you want to test.
 
 The owner of this repository assumes no liability or responsibility for misuse, damage, illegal activities, or any other consequences resulting from the use of these prompts.
 
-Users are responsible for how they use this content.
+You are responsible for what you do with them. If something goes wrong... don't blame the prompts, they warned you ;)
 
 ## Updates
 
@@ -28,10 +30,8 @@ Users are responsible for how they use this content.
 
 ## License
 
-This repository is protected by a custom license.
+This repository has a custom license.
 
-Viewing the repository is allowed. GitHub forks are allowed for personal use with original attribution.
+Forks are allowed on GitHub, but please don't copy my work, rename it, and pretend you created it. We both know what happened ;)
 
-Copying, re-uploading, mirroring, redistributing, selling, or claiming these prompts as your own is not allowed.
-
-See `LICENSE.md` for full terms.
+See `LICENSE.md` for the full rules.
