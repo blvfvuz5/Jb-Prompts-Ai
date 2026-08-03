@@ -38,4 +38,5 @@ GitHub forks are allowed, but please don't copy my work, rename it, and pretend 
 
 See `LICENSE.md` for the full rules.
 
-still works :)
+**NOTE** 
+Gemini prompts are NOT Working for Generating pictures, and Codes that are NOT in their guidelines.
