@@ -49,3 +49,5 @@ See `LICENSE.md` for the full terms.
 - Gemini prompts may not work for generating images or for producing code that falls outside of Gemini's usage guidelines.
 - The prompts are provided "as is". Use caution and ensure you comply with the terms of the model or platform you are testing with.
 - (Thank you for the Stars)
+
+- **UPDATE**!!! DEEPSEEK HAS A NEW MODEL. THE JAILBREAK PROMPTS ARE NOT LONGER WORKING. I AM BUILDING **NEW** ONES BUT THIS CAN TAKE TIME. THANK YOU FOR USING MY PROMPTS. 
