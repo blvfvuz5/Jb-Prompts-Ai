@@ -36,7 +36,7 @@ The repository owner assumes no liability or responsibility for misuse, damage, 
 
 ## Updates
 
-More JB prompts will be added once this repository reaches 5 GitHub followers.
+More JB prompts will be added once this repository reaches 20 GitHub Stars.
 
 ## License
 
