@@ -47,9 +47,21 @@ See `LICENSE.md` for the full terms.
 ## Notes
 
 · Gemini prompts may not work for generating images or for producing code that falls outside of Gemini's usage guidelines.
+
+
 · The prompts are provided "as is". Use caution and ensure you comply with the terms of the model or platform you are testing with.
+
+
 · (Thank you for the Stars)
+
+
 · The old DeepSeek jailbreak prompts no longer work with the new DeepSeek V4 model. I have built a new prompt, but it is currently in BETA.
-  · It does not fully remove DeepSeek V4's limits, but it responds to requests for illegal code and outputs it.
-  · It only works as a code builder. As far as I can tell, it cannot perform or guide physical illegal actions.
-  · Beta means: unstable, may break at any time, behavior can change.
+
+
+· It does not fully remove DeepSeek V4's limits, but it responds to requests for illegal code and outputs it.
+
+
+· It only works as a code builder. As far as I can tell, it cannot perform or guide physical illegal actions.
+
+
+· Beta means: unstable, may break at any time, behavior can change.
