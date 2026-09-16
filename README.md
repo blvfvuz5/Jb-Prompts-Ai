@@ -65,3 +65,10 @@ See `LICENSE.md` for the full terms.
 
 
 · Beta means: unstable, may break at any time, behavior can change.
+
+
+
+
+**IMPORTANT UPDATE**
+
+I Finally have a new jailbreak prompt for DeepSeek v4 that WORKS for everything. BUT it may denie **sometimes**
